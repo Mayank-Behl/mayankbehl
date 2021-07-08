@@ -6,13 +6,5 @@ I'm an <em> aspiring full stack developer </em>
 <p> I am very much interested in full stack developmet.</p>
 <p> Trying out new things and taking on various projects at the moment.</p>
 
-<h2>Currently using</h2>
-<p >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="50px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="50px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="75px">
-</p>
-
 <h2> Contact  📫</h2>
 <b> mayankbehl36@gmail.com </b>
